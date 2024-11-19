@@ -6,6 +6,8 @@
       "deviceName": "hepsiburadatest2",
       "udid": "emulator-5556",
       "browserName": "",
+      "browserVersion": "ANY",
+      "applicationName": "AndroidApp",
       "maxInstances": 1
     }
   ],
